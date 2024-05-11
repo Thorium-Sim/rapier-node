@@ -1,6 +1,6 @@
 {
-  "name": "rapier3d-node",
-  "version": "0.7.7",
+  "name": "@thorium-sim/rapier3d-node",
+  "version": "0.13.1",
   "main": "dist/rapier.js",
   "types": "dist/rapier.d.ts",
   "files": [

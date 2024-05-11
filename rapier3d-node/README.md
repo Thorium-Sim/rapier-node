@@ -6,12 +6,12 @@ Rapier doesn't ship a package currently that works in NodeJS out of the box. The
 
 ## Installing the package
 
-For **3D**, `npm i -s rapier3d-node`.
+For **3D**, `npm i -s @thorium-sim/rapier3d-node`.
 
 Usage:
 
 ```js
-import RAPIER from 'rapier3d-node'
+import RAPIER from '@thorium-sim/rapier3d-node'
 
 const world = new RAPIER.World({ x: 0, y: 9.81 })
 ```
